@@ -7,3 +7,4 @@ tensor.add_(5,alpha=-1)
 print(tensor)
 +1+1
 +1
++1
