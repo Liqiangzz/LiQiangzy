@@ -13,3 +13,4 @@ with open(data_file, 'w') as f:S
 
 data = pd.read_csv(data_file)
 print(data)
+print("试一下吧")
